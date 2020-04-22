@@ -21,7 +21,6 @@ describing what they are and what they do.
     :undoc-members:
     :show-inheritance:
     :synopsis:
-.. include:: lgrass.lpy
 
 
 :mod:`lgrass.flowering_functions` module
